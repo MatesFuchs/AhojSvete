@@ -1,2 +1,2 @@
 # AhojSvete
-První aplikace nasdílená pomoci GitHub.
+První aplikace nasdílená pomoci GitHub. Statický web.
